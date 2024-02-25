@@ -8,6 +8,13 @@
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
 
+
+	<properties>
+		
+		<sonar.host.url>http://54.90.196.152:9000/</sonar.host.url>
+
+	</properties>
+
 	<build>
 		<plugins>
 			<plugin>
